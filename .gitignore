@@ -1,0 +1,7 @@
+node_modules/
+dist/
+tmp/
+debug/
+tmp_generated_contact.png
+.DS_Store
+*.log

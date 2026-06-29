@@ -1,0 +1,9 @@
+{
+  "playerSpawn":{"x":800,"y":470},
+  "spawnZones":[
+    {"id":"north-gate","x":805,"y":118,"radius":90},
+    {"id":"west-pen","x":95,"y":470,"radius":85},
+    {"id":"east-yard","x":1500,"y":470,"radius":85},
+    {"id":"south-mud","x":805,"y":818,"radius":100}
+  ]
+}

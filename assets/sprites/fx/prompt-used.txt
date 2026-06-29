@@ -1,0 +1,1 @@
+Provisional FX set for local gameplay integration. Final slash, salt burst, trap, and hit FX should be replaced by generate2dsprite outputs.
